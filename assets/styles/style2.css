@@ -248,17 +248,22 @@ tbody {
     display: flex;
     justify-content: center;
 }
+.titulo-lista2{
+    margin: 1rem;
+}
 .seccion{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     padding: 2rem;
     border-radius: 2rem;
     min-height: 10vh;
 }
 ol{
-    padding: 1rem;
+    margin-left: 2rem;
+    padding-left: 2rem;
 }
 ul{
-    padding-left: 1rem;
+    margin-left: 2rem;
+    padding-left: 2rem;
 }
 /* BENEFITS-AND-TIPS */
 
